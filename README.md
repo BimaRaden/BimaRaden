@@ -1,6 +1,6 @@
 ## Hi im Bima Raden Putra 👋
 
-![Bima Raden](img/Header-1.png)
+![Bima Raden](Header-1.png)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bimaraden__) 
