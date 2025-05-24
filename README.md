@@ -1,4 +1,4 @@
-## Hi im Bima Raden Putra 👋
+## Hi im Bima Raden 👋
 
 ![Bima Raden](Header-1.png)
 
